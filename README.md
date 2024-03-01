@@ -1,2 +1,2 @@
 # delta-demo
-A demo repo to practice Git &amp; Github features.
+A demo repo to practice Git &amp; Github features
